@@ -1,0 +1,8 @@
+1232024,2023,Kwaku,Optician
+2024-04-24,Kwaku,Kwaku
+9:00-empty,9:30-empty,11:00-empty,
+11223344,kwakz,Kwaku,Physician
+3456,jo,Joseph,Doctor
+4756123,password,Kwaku,Doctor
+123,real,Kwaku,Eye Doctor
+11223344,kwakz,Kwaku,Doctor
